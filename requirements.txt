@@ -1,0 +1,5 @@
+scikit-learn==1.9.1
+pandas==3.0.6
+joblib==1.6.0
+google-cloud-bigquery==3.46.2
+tzdata==2026.5
